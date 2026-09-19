@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[1747,["493","static/chunks/493-d8e34f3c56408413.js","566","static/chunks/app/%5B...route%5D/page-d3ed771c27261e32.js"],"default"]
+3:I[1872,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[1872,[],"ViewportBoundary"]
+9:I[1872,[],"MetadataBoundary"]
+b:I[1133,[],""]
+c:I[4297,[],""]
+:HL["/_next/static/css/4486a91ee53bfddd.css","style"]
+7:X
+e:X
+e:C
+0:{"buildId":"cLLTucID6nwCbkM22g8qN","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"route":"terms"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"매장 소리 · 매장 음악을 가볍게"}],["$","meta","1",{"name":"description","content":"매장에 맞춰 자동으로 흐르는 AI 배경음악. 사장은 네 가지 설정, 직원은 두 버튼."}]]}]}]}],null]}],"isPartial":"$@a","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$7","varyParams":"$e"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4486a91ee53bfddd.css","precedence":"next"}]],["$","html",null,{"lang":"ko","children":["$","body",null,{"children":["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}],"notFound":[["$","main",null,{"className":"narrow","children":[["$","h1",null,{"children":"페이지를 찾을 수 없어요"}],["$","p",null,{"children":"주소를 확인하거나 내 매장으로 돌아가 주세요."}],["$","a",null,{"className":"button","href":"/owner/","children":"내 매장"}]]}],[]]}]}]}]]}],"isPartial":"$@f","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+5:null
+7:300
+11:true
+7:C
+10:0
+a:"$undefined"
+d:"$undefined"
+f:"$undefined"
+6:"$undefined"

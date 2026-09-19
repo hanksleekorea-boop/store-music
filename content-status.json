@@ -1,0 +1,17 @@
+{
+  "schema_version": 2,
+  "read_at": "2026-09-07T07:48:05.751Z",
+  "catalog": {
+    "candidateCount": 0,
+    "target": 800,
+    "eligibleCount": 0,
+    "channels": 20
+  },
+  "verification": {
+    "catalogComplete": false,
+    "actualPlayback": false,
+    "payment": false,
+    "neighborhood": false
+  },
+  "notice": "외부 음원 수용과 실제 매장 재생 검증이 필요합니다. 현재 실결제는 제공하지 않습니다."
+}
